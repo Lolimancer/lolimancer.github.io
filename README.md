@@ -260,8 +260,8 @@
       <p data-template-id="hero-description" class="canva-text max-w-2xl leading-relaxed mb-8" style="color: rgb(239, 227, 206); font-weight: 400; font-style: normal; font-size: 20px; line-height: 1.55;">Theo dõi một hành trình dài từ châu Âu công nghiệp, qua chủ nghĩa quốc tế xã hội chủ nghĩa và đấu tranh chống thực dân, đến độc lập và thống nhất Việt Nam.</p><a href="#timeline" data-template-id="hero-button" class="canva-button inline-flex items-center gap-2 rounded-sm px-5 py-3 sans font-bold shadow-lg hover:-translate-y-0.5 transition-transform" style="background: rgb(177, 42, 35); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 15px;">Bắt đầu dòng thời gian</a>
      </div>
      <aside data-template-id="hero-note" class="canva-panel mt-12 max-w-xl border-l-4 p-5 backdrop-blur-sm" style="background: rgba(46, 27, 21, 0.78);">
-      <h3 data-template-id="hero-note-title" class="canva-text sans font-bold mb-2" style="color: rgb(241, 203, 126); font-weight: 700; font-style: normal; font-size: 15px;">Cách khám phá</h3>
-      <p data-template-id="hero-note-text" class="canva-text leading-relaxed" style="color: rgb(247, 236, 218); font-weight: 400; font-style: normal; font-size: 16px;">Cuộn trang để toàn bộ phông nền chuyển qua các bức ảnh lịch sử, kết hợp bộ lọc, mở ghi chú nguồn và dùng điều khiển nhạc cho phần âm thanh không lời tùy chọn.</p>
+      <h3 data-template-id="hero-note-title" class="canva-text sans font-bold mb-2" style="color: rgb(241, 203, 126); font-weight: 700; font-style: normal; font-size: 15px;">Made by</h3>
+      <p data-template-id="hero-note-text" class="canva-text leading-relaxed" style="color: rgb(247, 236, 218); font-weight: 400; font-style: normal; font-size: 16px;">HA173003 - Nguyen Trong Dung</p>
      </aside>
     </div>
    </section>
