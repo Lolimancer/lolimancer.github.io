@@ -711,7 +711,7 @@
   </main>
   <footer data-template-id="footer-section" class="canva-footer w-full py-8" style="background: rgba(56, 23, 20, 0.95);">
    <div class="max-w-6xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-    <p data-template-id="footer-text" class="canva-text text-center sm:text-left" style="color: rgb(230, 213, 185); font-weight: 400; font-style: normal; font-size: 14px;">Ưebsite host trên Github nên bố cục hơi có vấn đề, mong mọi người thông cảm</p><button id="back-to-top" data-template-id="back-to-top" class="canva-button inline-flex items-center gap-2 rounded-sm px-4 py-2 sans font-bold" type="button" style="background: rgb(169, 42, 35); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 14px;">Về đầu trang</button>
+    <p data-template-id="footer-text" class="canva-text text-center sm:text-left" style="color: rgb(230, 213, 185); font-weight: 400; font-style: normal; font-size: 14px;">Các bạn tham gia Game Đào Vàng: lolimancer-goldminer.github.io</p><button id="back-to-top" data-template-id="back-to-top" class="canva-button inline-flex items-center gap-2 rounded-sm px-4 py-2 sans font-bold" type="button" style="background: rgb(169, 42, 35); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 14px;">Về đầu trang</button>
    </div>
   </footer>
   <script src="/_sdk/c939c145c3c74230.editing_sdk.js" integrity="sha512-jh2pv/gl9Gzzn5dxfzwQO4wkqtnAQIim+LIUDYfVu2cdqPkQV2MqbjsDUW5IYbrSZFjRlOBrIWzlvWDXQYxOjg=="></script>
