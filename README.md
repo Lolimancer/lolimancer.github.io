@@ -259,7 +259,7 @@
      </div>
      <aside data-template-id="hero-note" class="canva-panel mt-12 max-w-xl border-l-4 p-5 backdrop-blur-sm" style="background: rgba(46, 27, 21, 0.78);">
       <h3 data-template-id="hero-note-title" class="canva-text sans font-bold mb-2" style="color: rgb(241, 203, 126); font-weight: 700; font-style: normal; font-size: 15px;">Made by</h3>
-      <p data-template-id="hero-note-text" class="canva-text leading-relaxed" style="color: rgb(247, 236, 218); font-weight: 400; font-style: normal; font-size: 16px;">HA173003 - Nguyen Trong Dung</p>
+      <p data-template-id="hero-note-text" class="canva-text leading-relaxed" style="color: rgb(247, 236, 218); font-weight: 400; font-style: normal; font-size: 16px;">Group 6 - MLN131</p>
      </aside>
     </div>
    </section>
