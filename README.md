@@ -246,8 +246,7 @@
        </div>
       </div>
      </div>
-    </div>
-   </div>
+      </div>
   </header>
   <main>
    <section data-template-id="hero-section" class="canva-section hero-section relative w-full overflow-hidden" style="background: rgba(36, 23, 19, 0.12);">
